@@ -1,3 +1,3 @@
 ## Simply Me
 
-A fully responsive Html, Css and JavaScript web template.
+A fully responsive HTML, CSS and JAVASCRIPT(JQUERY) web template.
